@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Sign up" max_length="40" name="x_364876_antidote_sign_up" type="collection">
+        <element label="Address" max_length="40" name="address" type="string"/>
+        <element label="Confirm Password" max_length="40" name="confirm_password" type="password"/>
+        <element label="Email Id" max_length="40" name="email_id" type="string"/>
+        <element label="Password" max_length="40" name="new_password" type="password"/>
+        <element label="Phone Number" max_length="40" name="phone_number" type="phone_number_e164"/>
+        <element label="User Name" max_length="40" name="user_name" type="string"/>
+    </element>
+</database>

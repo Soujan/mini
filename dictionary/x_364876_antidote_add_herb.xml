@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Add Herb" max_length="40" name="x_364876_antidote_add_herb" type="collection">
+        <element label="Description" max_length="40" name="description" type="string"/>
+        <element label="Herb Name" max_length="40" name="herb_name" type="string"/>
+        <element label="Price" max_length="20" name="price" type="currency"/>
+    </element>
+</database>
